@@ -39,7 +39,8 @@ A regression model predicts a numeric value. For example, a weather model that p
 | Scenario   | Possible input data   | Numeric prediction  |
 |------------|-----------------------|---------------------|
 | Future house price | Square footage, zip code, number of bedrooms and bathrooms, lot size, mortgage interest rate, property tax rate, construction costs, and number of homes for sale in the area. | The price of the home.|
-| Row 2 Col 1| Row 2 Col 2| Row 2 Col 3|
-| Row 3 Col 1| Row 3 Col 2| Row 3 Col 3|
+| Future ride time | Historical traffic conditions (gathered from smartphones, traffic sensors, ride-hailing and other navigation applications), distance from destination, and weather conditions. | The time in minutes and seconds to arrive at a destination. |
+
+
 
       
