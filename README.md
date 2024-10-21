@@ -67,3 +67,10 @@ Supervised machine learning is based on the following core concepts:
 - Training
 - Evaluating
 - Inference
+
+#### Data
+Data is the driving force of ML. Data comes in the form of words and numbers stored in tables, or as the values of pixels and waveforms captured in images and audio files. We store related data in datasets. For example, we might have a dataset of the following:
+
+- Images of cats
+- Housing prices
+- Weather information
