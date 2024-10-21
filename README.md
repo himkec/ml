@@ -81,7 +81,7 @@ Examples that contain both features and a label are called labeled examples.
 
 In contrast, unlabeled examples contain features, but no label. After you create a model, the model predicts the label from the features.
 
-Dataset characteristics
+#### Dataset characteristics
 A dataset is characterized by its size and diversity. Size indicates the number of examples. Diversity indicates the range those examples cover. Good datasets are both large and highly diverse.
 
 Some datasets are both large and diverse. However, some datasets are large but have low diversity, and some are small but highly diverse. In other words, a large dataset doesn’t guarantee sufficient diversity, and a dataset that is highly diverse doesn't guarantee sufficient examples.
