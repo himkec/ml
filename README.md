@@ -1,3 +1,5 @@
+
+
 # Machine Learning
 
 ## What is Machine Learning?
@@ -34,6 +36,14 @@ Supervised learning models can make predictions after seeing lots of data with t
 A regression model predicts a numeric value. For example, a weather model that predicts the amount of rain, in inches or millimeters, is a regression model.
 
 | Scenario          | Possible input data | Numeric prediction |
+
+
+| Scenario   | Possible input data   | Numeric prediction  |
+|------------|-----------------------|---------------------|
+| Row 1 Col 1| Row 1 Col 2| Row 1 Col 3|
+| Row 2 Col 1| Row 2 Col 2| Row 2 Col 3|
+| Row 3 Col 1| Row 3 Col 2| Row 3 Col 3|
+
 |Future house price |Square footage, zip code, number of bedrooms and bathrooms, lot size, mortgage interest rate, property tax rate, construction costs, and number of homes for sale in the area.| The price of the home.|
 
       
