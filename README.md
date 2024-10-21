@@ -49,4 +49,21 @@ Classification models are divided into two groups: binary classification and mul
 ### Unsupervised learning
 Unsupervised learning models make predictions by being given data that does not contain any correct answers. An unsupervised learning model's goal is to identify meaningful patterns among the data. In other words, the model has no hints on how to categorize each piece of data, but instead it must infer its own rules.
 
-      
+
+
+
+
+
+
+
+### Supervised Learning
+Supervised learning's tasks are well-defined and can be applied to a multitude of scenarios—like identifying spam or predicting precipitation.
+
+#### Foundational supervised learning concepts
+Supervised machine learning is based on the following core concepts:
+
+- Data
+- Model
+- Training
+- Evaluating
+- Inference
